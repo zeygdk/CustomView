@@ -1,0 +1,27 @@
+[
+{"CustomViewType" : "EditTextWithClear",
+"Properties":{
+"Text" : "'Custom view örnek'"
+}
+},
+{
+"CustomViewType" : "Combobox",
+"Properties":{
+"EditTextWithClear" : "'Combobox'"
+"Code" : "['a','b','c']",
+"Text": "['ilk', 'ikinci', 'üçüncü']"
+}
+},
+{
+"CustomViewType" : "TextInput",
+"Properties":{
+"EditTextWithClear" : "'Text Input'"
+}
+},
+{
+"CustomViewType" : "TextInput",
+"Properties":{
+"EditTextWithClear" : "'Text Input 2'"
+}
+}
+]
