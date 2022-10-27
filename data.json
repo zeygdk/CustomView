@@ -1,27 +1,23 @@
 [
 {"CustomViewType" : "EditTextWithClear",
 "Properties":{
-"Text" : "'Custom view örnek'"
+ "Text" : "'Custom view örnek'"
+}
+},
+{
+"CustomViewType" : "TextInput",
+"Properties":{
+"Header" : "'Text Input'"
+
 }
 },
 {
 "CustomViewType" : "Combobox",
 "Properties":{
-"EditTextWithClear" : "'Combobox'"
+"Header" : "'Combobox'",
 "Code" : "['a','b','c']",
-"Text": "['ilk', 'ikinci', 'üçüncü']"
+"Text": "['ilk','ikinci','üçüncü']"
 }
-},
-{
-"CustomViewType" : "TextInput",
-"Properties":{
-"EditTextWithClear" : "'Text Input'"
-}
-},
-{
-"CustomViewType" : "TextInput",
-"Properties":{
-"EditTextWithClear" : "'Text Input 2'"
-}
+
 }
 ]
