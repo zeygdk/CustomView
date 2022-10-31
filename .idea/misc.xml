@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ZEYNEP/AndroidStudioProjects/SofttechProject/app/src/main/res/drawable/ic_clear_black_24dp.xml" value="0.157" />
+        <entry key="..\:/Users/ZEYNEP/AndroidStudioProjects/SofttechProject/app/src/main/res/drawable/ic_clear_opaque_24dp.xml" value="0.157" />
+        <entry key="..\:/Users/ZEYNEP/AndroidStudioProjects/SofttechProject/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ZEYNEP/AndroidStudioProjects/SofttechProject/app/src/main/res/layout/custom_spinner_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ZEYNEP/AndroidStudioProjects/SofttechProject/app/src/main/res/layout/custom_view_layout.xml" value="0.1" />
+        <entry key="..\:/Users/ZEYNEP/AndroidStudioProjects/SofttechProject/app/src/main/res/layout/fragment_spinner.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/ZEYNEP/AndroidStudioProjects/SofttechProject/app/src/main/res/layout/layout_viewholder1.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/ZEYNEP/AndroidStudioProjects/SofttechProject/app/src/main/res/layout/layout_viewholder2.xml" value="0.16598360655737704" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

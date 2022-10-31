@@ -1,4 +1,4 @@
-package com.zeynepgedik.softtechproject
+package com.zeynepgedik.softtechproject.data
 
 data class CustomViewModelItem(
     val CustomViewType: String,

@@ -1,4 +1,4 @@
-package com.zeynepgedik.softtechproject
+package com.zeynepgedik.softtechproject.data
 
 data class Properties(
     val Code: String,
