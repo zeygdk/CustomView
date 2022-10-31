@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+  <dimen name="padding_left">24dp</dimen>
+  <dimen name="padding_top">12dp</dimen>
+  <dimen name="item_height">34dp</dimen>
+  <dimen name="popup_padding_left">24dp</dimen>
+  <dimen name="popup_padding_top">12dp</dimen>
+</resources>
